@@ -5,7 +5,7 @@ An operating system for restaurants, from the table to the kitchen to the bill.
 OFOQ runs a restaurant's day in one system: tables, orders, waiters, cashier, prep stations, reservations, and a [digital menu](https://menu.ofoqsy.com/) guests open by QR. Seven restaurants are running on it in the current trial.
 
 > This repo is a public write-up. The product source is private.
-> Full case study: [mohammedkhankan.github.io/khankan-portfolio/en/projects/ofoq](https://mohammedkhankan.github.io/khankan-portfolio/en/projects/ofoq/)
+> Full case study: [mohammedkhankan.ofoqsy.com/en/projects/ofoq](https://mohammedkhankan.ofoqsy.com/en/projects/ofoq/)
 
 ![OFOQ on laptop and phone](docs/00-ofoq-hero-desktop-mobile-1280.webp)
 
